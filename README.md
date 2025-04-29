@@ -13,14 +13,20 @@
 ABOUT ME
 </summary> 
  <br>
+ page<br>
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/
 </br>
+ <br>
+ pastime
+ <br>
+ ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+ ![riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 </details>
 
 <details>
 <summary>
-PROJECT ..ing
-</summary> <br>
+PROJECT ..ing <br>
+</summary> 
   🎮Unity Game 
   <br>
   🧸Toy project
@@ -28,7 +34,7 @@ PROJECT ..ing
 </details>
 <details>
 <summary>
-Tech Stack
+TECH STACK
 </summary>
    <br>
  
