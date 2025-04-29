@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F0,100:a82da8&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F080,100:a82da8&fontColor=FFFFFF)
 <div align=center> 
 ## Hi there 👋
 </div>
