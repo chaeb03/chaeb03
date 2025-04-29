@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
 <div align=center> 
- <div align="center">
+
   <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=F08072&center=true&vCenter=true&width=1000&lines=“꾸준히+성장하는+개발자+입니다.”;“성장을+위해+열심히+공부하는+개발자+입니다.”;)](https://git.io/typing-svg) 
@@ -16,10 +16,10 @@
  뛰어난 개발자가 되기 위해 노력중입니다👩‍💻
 </div>
 <br><br>
-
+<div align=center> 
  ![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03&show_icons=true&theme=radical)
 
-
+</div>
 
 
 
