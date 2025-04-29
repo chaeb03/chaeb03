@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
 <div align=center> 
- ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
-
 안녕하세요👋
 <br>
 저는 오채빈이고, chaeb03 닉네임으로 활동하고 있습니다. <br>
