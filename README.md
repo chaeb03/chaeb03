@@ -23,7 +23,8 @@
 </div>
 
 
-
+<br>
+<hr>
 <details>
 <summary>
 ABOUT ME
