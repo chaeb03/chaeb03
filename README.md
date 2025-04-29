@@ -19,8 +19,7 @@ ABOUT ME
  <br>
  pastime
  <br>
- ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
- ![riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+
 </details>
 
 <details>
