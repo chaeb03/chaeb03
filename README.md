@@ -65,9 +65,7 @@ STUDYING<br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![php](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![unity](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
 </details>
-## Github-stats ⏲️  
 
-<img src="https://raw.githubusercontent.com/chaeb03/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/chaeb03/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
 
 <!--
 **chaeb03/chaeb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
