@@ -3,6 +3,9 @@
 <summary>
  PROJECT
 </summary> 
+
+ [![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <br>
   🎮Unity Game 
   <br>
