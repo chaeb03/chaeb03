@@ -37,7 +37,7 @@ ABOUT ME
  <br>
  PAGE
  <br><br>
-<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/
+<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> [https://https://www.tistory.com/](https://ovinee.tistory.com/)
 </br>
  <br>
 
