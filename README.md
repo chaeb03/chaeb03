@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=auto)
+<div align=center> 
 ## Hi there 👋
+</div>
+
 
 <!--
 **chaeb03/chaeb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
