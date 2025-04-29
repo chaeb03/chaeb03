@@ -19,12 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeb03)](https://github.com/chaeb03/github-readme-stats)
 
-<a href="https://github.com/chaeb03/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaeb03&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/chaeb03/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaeb03&repo=convoychat" />
-</a>
+
+![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03&show_icons=true&theme=radical)
 
 <details>
 <summary>
