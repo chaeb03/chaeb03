@@ -4,7 +4,7 @@
   <br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=F08072&center=true&vCenter=true&width=1000&lines=“꾸준히+성장하는+개발자+입니다.”;“성장을+위해+열심히+공부하는+개발자+입니다.”;)](https://git.io/typing-svg) 
-  
+
 </div>
 
 <br>
@@ -16,6 +16,12 @@
  뛰어난 개발자가 되기 위해 노력중입니다👩‍💻
 </div>
 <br><br>
+<a href="https://github.com/chaeb03/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaeb03&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/chaeb03/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaeb03&repo=convoychat" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeb03&layout=compact)](https://github.com/chaeb03/github-readme-stats) ![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03&show_icons=true&theme=radical)
 
