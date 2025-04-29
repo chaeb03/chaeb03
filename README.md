@@ -13,7 +13,7 @@
 ABOUT ME
 </summary> 
  <br>
-<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/ <br>
+<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/
 </br>
 </details>
 
@@ -24,8 +24,8 @@ PROJECT ..ing
  <br>
   🎮Unity Game 
   <br>
-  🧸Toy project<br>
-</br><br>
+  🧸Toy project
+</br>
 </details>
 <details>
 <summary>
