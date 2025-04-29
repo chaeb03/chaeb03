@@ -9,18 +9,21 @@
 </div>
 <br><br>
 <details>
-<summary style="margin-top: 4px;">
+<summary>
 ABOUT ME
 </summary> 
  <br>
- PAGE<br>
+ PAGE
+ <br>
 <img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/
 </br>
  <br>
- PASTIME<br>
+ PASTIME
+ <br>
  
  ![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)<br>
  ![riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+ </br>
  <br>
 
 </details>
