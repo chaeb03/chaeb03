@@ -2,6 +2,7 @@
 <div align=center> 
 ## Hi there 👋
 </div>
+[![chaeb's GitHub stats](https://github-readme-stats.vercel.app/apichaeb03=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>
   STUDYING 
