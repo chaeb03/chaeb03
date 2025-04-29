@@ -3,10 +3,8 @@
 <summary>
  PROJECT
 </summary> 
-  <br>
   🎮Unity Game 
-</br>
- <br>
+  <br>
   🧸Toy project
 </br>
 </details>
