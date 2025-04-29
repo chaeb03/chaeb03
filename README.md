@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
 <div align=center> 
-안녕하세요![HiGIF](https://github.com/user-attachments/assets/00ac9493-e3ba-47b8-9bea-c0731bd17c5e)
+안녕하세요👋
 <br>
-저는 오채빈 입니다. <br>
+저는 오채빈이고, chaeb03 닉네임으로 활동하고 있습니다. <br>
 현재 대학생 3학년 재학중이고,<br>
-백엔드 관련 공부를 하고 있으며 뛰어난 개발자가 되기 위해 노력중입니다.
+백엔드 관련 공부를 하고 있습니다.<br> 
+ 뛰어난 개발자가 되기 위해 노력중입니다👩‍💻
 </div>
-<br>
- [![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>
  PROJECT ..ing
