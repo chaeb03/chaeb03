@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
 <div align=center> 
-## Hi there 👋
+</div>
+<details>
+<summary>
+  📌project📌
+</summary> 
+  <br>
+  🎮Unity Game
+  🧸Toy project
+</details>
 </div>
 <details>
 <summary>
