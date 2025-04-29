@@ -6,7 +6,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=F08072&center=true&vCenter=true&width=1000&lines=“꾸준히+성장하는+개발자+입니다.”;“성장을+위해+열심히+공부하는+개발자+입니다.”;)](https://git.io/typing-svg) 
 
 </div>
-
+<div align=center> 
 <br>
 
 안녕하세요😊
