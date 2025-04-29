@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=auto)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=white)
 ## Hi there 👋
 
 <!--
