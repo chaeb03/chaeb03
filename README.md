@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
+
+ [![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>
  PROJECT
 </summary> 
-
- [![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/anuraghazra/github-readme-stats)
- 
  <br>
   🎮Unity Game 
   <br>
