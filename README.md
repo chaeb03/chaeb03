@@ -67,6 +67,7 @@ STUDYING<br>
 <br>
 </details>
 
+<img src="https://raw.githubusercontent.com/chaeb03/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/chaeb03/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
 
 <!--
 **chaeb03/chaeb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
