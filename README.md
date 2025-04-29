@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=chaeb03%20&desc=ChaeBeen%20Oh&color=0:F08072,100:a82da8&fontColor=FFFFFF)
-<div style="text-align: center;">
+<div align=center> 
 안녕하세요!<br>
 저는 오채빈 입니다. <br>
 현재 대학생 3학년 재학중이고,<br>
