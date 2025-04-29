@@ -4,6 +4,7 @@
 </div>
 
 <details>
+[![chaeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/chaeb03/github-readme-stats)
 <summary>
   STUDYING 
 </summary>
