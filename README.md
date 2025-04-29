@@ -2,7 +2,7 @@
 <div align=center> 
 ## Hi there 👋
 </div>
-[![chaeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03)](https://github.com/chaeb03/github-readme-stats)
+
 <details>
 <summary>
   STUDYING 
