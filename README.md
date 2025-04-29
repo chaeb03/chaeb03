@@ -20,7 +20,7 @@ ABOUT ME
 <details>
 <summary>
 PROJECT ..ing
-</summary> 
+</summary> <br>
   🎮Unity Game 
   <br>
   🧸Toy project
