@@ -8,7 +8,7 @@
 </div>
 <div align=center> 
 <br>
-
+<hr>
 안녕하세요😊
 <br>
 현재 대학생 3학년 재학중이고,<br>
