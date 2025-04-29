@@ -16,6 +16,9 @@
  뛰어난 개발자가 되기 위해 노력중입니다👩‍💻
 </div>
 <br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeb03)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
 <summary>
 ABOUT ME
