@@ -28,7 +28,7 @@ PROJECT ..ing
 </details>
 <details>
 <summary>
-  STUDYING 
+Tech Stack
 </summary>
    <br>
  
@@ -37,7 +37,7 @@ PROJECT ..ing
 </details>
 <details>
 <summary>
-🛠 Tech Stack 🛠 <br>
+STUDYING<br>
 </summary>
    <br>
  
