@@ -6,22 +6,29 @@
 현재 대학생 3학년 재학중이고,<br>
 백엔드 관련 공부를 하고 있습니다.<br> 
  뛰어난 개발자가 되기 위해 노력중입니다👩‍💻
-
-
-## 😊 About Me 😊 <br>
-<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/ <br><br><br>
 </div>
+<details>
+<summary>
+ABOUT ME
+</summary> 
+ <br>
+<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/> https://https://www.tistory.com/ <br><br><br>
+</br>
+</details>
+
+
 
 <details>
 <summary>
-## PROJECT ..ing
+PROJECT ..ing
 </summary> 
  <br>
   🎮Unity Game 
   <br>
   🧸Toy project
 </br>
-</details><details>
+</details>
+<details>
 <summary>
   STUDYING 
 </summary>
