@@ -37,8 +37,6 @@ ABOUT ME
 </br>
  <br>
 
- <br>
-
 </details>
 
 <details>
