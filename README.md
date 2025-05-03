@@ -37,6 +37,10 @@
 	</picture>
 </p>
 
+export GITHUB_TOKEN=YOUR_PERSONAL_ACCESS_TOKEN
+
+node_modules/.bin/ts-node src/index.ts chaeb03
+
 
 <br>
 <hr>
