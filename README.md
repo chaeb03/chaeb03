@@ -29,7 +29,7 @@
 
 </div>
 
-![profile-3d-contrib/profile-night-rainbow.svg](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <br>
