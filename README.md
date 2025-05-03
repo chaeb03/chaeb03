@@ -29,7 +29,7 @@
 
 </div>
 
-export GITHUB_TOKEN=YOUR_PERSONAL_ACCESS_TOKEN
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <br>
