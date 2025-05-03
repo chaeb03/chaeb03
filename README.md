@@ -23,9 +23,9 @@
 <br><br>
 <div align=center> 
   
- ![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03&show_icons=true&theme=radical)
+ ![chaeb03's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeb03&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeb03&layout=compact&bg_color=000003)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeb03&layout=compact&theme=transparent)
 
 </div>
 
